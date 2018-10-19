@@ -21,7 +21,7 @@ public class Main {
 				int userNum = userInput.nextInt();
 				
 				if(userNum == -1) {
-					System.out.print("\nGoodbye.");
+					System.out.print("\nGoodbye.\n");
 					break;
 				}
 				else if(userNum == -2) {
